@@ -1,0 +1,3 @@
+ścieżka dostępu może być różna
+	cd C:\Users\szymo\source\repos\BodzioBot\Lavalink
+java -jar Lavalink.jar
